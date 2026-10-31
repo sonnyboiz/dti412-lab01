@@ -13,6 +13,7 @@
 - Database Skills: SQL, SQLite
 - Web Development Skills: React, FastAPI
 - Other Skills: Git, GitHub, Basic Networking
+- Version Control: Git and GitHub
 
 ## Personal Interests
 
